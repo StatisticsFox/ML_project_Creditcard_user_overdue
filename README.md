@@ -1,6 +1,5 @@
 # ML_project_Creditcard_user_overdue
-2022 데이콘 신용카드 사용자 연체 예측 AI 경진대회
-# ML_project_predict_heart_disease
+- 대회명 : 2022 데이콘 신용카드 사용자 연체 예측 AI 경진대회
 - 팀명 : 재벌 집 막내 1조
 - 주제 : 신용카드 사용자들의 연체(신용등급)를 예측하는 ML 구현
 
